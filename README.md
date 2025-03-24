@@ -1,5 +1,5 @@
 ### Hi there 👋
-BSc. in Computer Science at UO, Cuba. Math 📐🧮 lover and learning AI.
+Software Engineer
 
 ![jorgeajimenezl GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgeajimenezl&count_private=true)
 
